@@ -8,7 +8,7 @@ Korrigiert?,Lied
 ✔️,Die Sandbank
 ✔️,Kaperfahrt
 ✔️,Männer mit Bärten
-❌,Leaving on a jetplane
+✔️,Leaving on a jetplane
 ✔️,Country Roads
 ❌,Piratenhafen
 ❌,Amazing Grace
@@ -51,7 +51,7 @@ Korrigiert?,Lied
 ✔️,Die Lappen hoch
 ✔️,Die Schluchten des Balkans
 ✔️,Hochzeit
-❌,Hymne til norge
+✔️,Hymne til norge
 ✔️,Popellied
 ✔️,Les filles des forges
 ✔️,Dire-gelt
@@ -76,17 +76,17 @@ Korrigiert?,Lied
 ❌,Es tropft von Helm und Säbel
 ✔️,Es war an einem Sommertag
 ✔️,So weit ist das Meer
-❌,Raxli Faxli
-❌,König von Thule
+✔️,Raxli Faxli
+✔️,König von Thule
 ❌,Anne Kaffeekanne
-❌,Nachtgeister
+✔️,Nachtgeister
 ✔️,Botany Bay
 ✔️,Hyazinthen
 ✔️,"Fluck, der edle Drache"
 ❌,Frösche in der Nacht
 ✔️,Hoch im Norden
 ❌,Die letzten Goten
-❌,Gregor
+✔️,Gregor
 ❌,Gelbe Blätter
 ❌,Tod und Mediziner
 ✔️,Gospodar
@@ -102,15 +102,15 @@ Korrigiert?,Lied
 ❌,Meine Biber haben Fieber
 ✔️,An Land
 ❌,Hier wächst kein Ahorn
-❌,Maienbaum
+✔️,Maienbaum
 ❌,Badibam
 ✔️,Das kleine Nilpferd
 ✔️,Ich find’ die Kohte nicht mehr
 ✔️,Marzipan
 ✔️,Ich kenne Europas Zonen
 ❌,Das Murmeltier
-❌,Und ganz doll mich
-❌,Zirkuslied
+✔️,Und ganz doll mich
+✔️,Zirkuslied
 ✔️,Bananas in my head
 ✔️,Helden deiner Träume
 ❌,Dust in the wind
@@ -122,34 +122,34 @@ Korrigiert?,Lied
 ✔️,Die Weber
 ✔️,Dirty old town
 ✔️,Die freie Republik
-❌,Drei rote Pfiffe
+✔️,Drei rote Pfiffe
 ✔️,Ballade vom roten Haar
 ✔️,Back home in Derry
-❌,In dem dunklen Wald von Paganowo
+✔️,In dem dunklen Wald von Paganowo
 ✔️,Käpt’n Rondo
 ✔️,In der Stunde vor dem Angriff
-❌,"In die Sonne, die Ferne hinaus"
+✔️,"In die Sonne, die Ferne hinaus"
 ❌,Resolution
-❌,In Gori Kaseki
+✔️,In Gori Kaseki
 ❌,Märchen
 ❌,The lion sleeps tonight
-❌,Eastern Rebellion Song
+✔️,Eastern Rebellion Song
 ✔️,Black and Tans
 ❌,Verliebt in du
 ✔️,Tscherschenko
-❌,Sturm und Drang
+✔️,Sturm und Drang
 ✔️,Le Contrebandier
 ✔️,Landrattenschar
 ✔️,Piratenlied (Klingt ein Lied)
 ✔️,Unter dem Pflaster
 ✔️,Komm lauf mit uns hinaus
 ❌,Colonel Mathis Marsch
-❌,Lasst die Finger springen
+✔️,Lasst die Finger springen
 ✔️,Leise weht der Wind
-❌,Leuchtet die See
+✔️,Leuchtet die See
 ❌,Lo yisa goy
 ❌,V’Yashvu
-❌,"Mädchen, Männer, Meister"
+✔️,"Mädchen, Männer, Meister"
 ❌,"Mädel, lass zum Tanz dich führen"
 ❌,Makedonsko 
 ❌,Manchmal des Nachts
@@ -158,17 +158,17 @@ Korrigiert?,Lied
 ❌,Irish Blessing
 ❌,Landgang
 ❌,Mein kleines Boot
-❌,Mit der Mütze unterm Arm
+✔️,Mit der Mütze unterm Arm
 ✔️,Muro šavo
 ❌,Dead and Gone
 ✔️,Avalon
-❌,Nachts auf dem Dorfplatz
-❌,Nachts steht Hunger
+✔️,Nachts auf dem Dorfplatz
+✔️,Nachts steht Hunger
 ❌,Nane tsóra
 ❌,Star of the county down
-❌,Nehmt Abschied Brüder
-❌,Ziehharmonika
-❌,Santiano
+✔️,Nehmt Abschied Brüder
+✔️,Ziehharmonika
+✔️,Santiano
 ❌,Abschied im Herbstwind
 ✔️,"Nordwärts, nordwärts"
 ❌,Das Bürgerlied
@@ -180,7 +180,7 @@ Korrigiert?,Lied
 ✔️,Roter Wein im Becher
 ❌,Sag mir wo die Blumen sind
 ✔️,"Marktfrauen, Kinder und Troubadoure"
-❌,Schilf bleicht
+✔️,Schilf bleicht
 ✔️,Schlaflied für Anne
 ❌,Schließ Aug’ und Ohr
 ✔️,Aliquando
@@ -191,7 +191,7 @@ Korrigiert?,Lied
 ✔️,Pfingsten für zwei alte Leute
 ✔️,Das Schiff im Nebel
 ❌,Und sie lachte
-❌,Schoschonen
+✔️,Schoschonen
 ❌,Edelweißpiraten
 ❌,Blinde Katharina
 ❌,Trommellied der Geusen
@@ -211,74 +211,74 @@ Korrigiert?,Lied
 ❌,Summt der Regen
 ✔️,Tanzen die Dohlen
 ❌,Bonnie ship the diamond
-❌,From Clare to here
+✔️,From Clare to here
 ❌,Wellerman
 ✔️,Tief im Busch
 ❌,Karl der Käfer
-❌,Tod mach’s mir leicht
+✔️,Tod mach’s mir leicht
 ✔️,Ride On
 ❌,Di grine Kusine
 ❌,Vihma Loits
-❌,Tanzlied der Spielleute
-❌, Über meiner Heimat
-❌,Lasst uns singen
+✔️,Tanzlied der Spielleute
+✔️, Über meiner Heimat
+✔️,Lasst uns singen
 ✔️,Einheitsfront
 ✔️,Balkanlied
 ✔️,Unter den Toren
-❌,Markttag  
+✔️,Markttag  
 (✔️),Viva la feria
 ✔️,Raubritter
 ✔️,Jalava
-❌,Regenbogenlied
+✔️,Regenbogenlied
 ❌,Ein Leben als Vagabund
 ❌,Batka Ataman
 ✔️,Wach nun auf
 ❌,Eala frya fresena
 ✔️,Warum zögerst du noch
-❌,Ein Krampenschlag vor Tag
+✔️,Ein Krampenschlag vor Tag
 ✔️,Tanzlied des Totenschiffs
 ❌,Was helfen mir tausend Dukaten
 ✔️,Piet
 ✔️,Das Stundenglas
 ✔️,Welle wogte
-❌,The Colliery Gate
-❌,The Miners Song 
+✔️,The Colliery Gate
+✔️,The Miners Song 
 ✔️,The Road
-❌,Wenn der Abend naht
-❌,Frühling (Wenn der Frühling)
+✔️,Wenn der Abend naht
+✔️,Frühling (Wenn der Frühling)
 ❌,De Fresenhof
 ❌,Wenn die Bürger schlafen gehen
 ✔️,Der Klabautermann
-❌,Nacht in Portugal
+✔️,Nacht in Portugal
 ✔️,Wenn hell die gold’ne Sonne lacht
 ✔️,Brot und Rosen
 ❌,Santy Anno
 ✔️,Dracula Rock
 ✔️,Both sides the tweed
 ❌,"Johnny, I hardly knew ye"
-❌,Wintererwachen
-❌,Insh Allah
+✔️,Wintererwachen
+✔️,Insh Allah
 ✔️,Oh Scheiße
-❌,Wilde Reiter
+✔️,Wilde Reiter
 ❌,Piratenbraut
 ✔️,Über den Wolken
 ❌,Wir blieben gern
-❌,"Wir drei, wir gehen jetzt auf die Walze"
+✔️,"Wir drei, wir gehen jetzt auf die Walze"
 ✔️,Wir fahren übers weite Meer
-❌,Wir kamen einst von Piemont
+✔️,Wir kamen einst von Piemont
 ❌,Johnnys Spelunke
-❌,Kleine verlorene Schar
+✔️,Kleine verlorene Schar
 ❌,Frei wie ein Albatros
 ✔️,Barfuß vor den Toren
 ✔️,Zuhause
-❌,Wir wählten den Sommer
-❌,Frühlingslied
+✔️,Wir wählten den Sommer
+✔️,Frühlingslied
 ❌,Wir wollen zu Lande ausfahren
 ✔️,Ore Ore
 ✔️,Die Moorsoldaten
 ❌,König Olav Tryggvason
-❌,Wo’s nur Felsen gibt
-❌,Ye Jacobites
+✔️,Wo’s nur Felsen gibt
+✔️,Ye Jacobites
 ✔️,Ballade von der gemeinsamen Zeit
 ❌,Zogen vieler Straßen
 ❌,Zoobi Doobi
